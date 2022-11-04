@@ -20,15 +20,15 @@ Para añadir un fichero a nuestro repositorio remoto de [GitHub](https://www.git
 
 ```console
 git add fichero
-´´´
+```
 
 ```console
 git commit -m "Comentario sobre el commit"
-´´´
+```
 
 ```console
 git push
-´´´
+```
 
 
 
