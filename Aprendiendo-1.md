@@ -15,9 +15,7 @@ Estamos aprendiendo a trabajar con **GIT** y para eso hemos creado este reposito
 
 Para añadir un fichero a nuestro repositorio remoto de [GitHub](https://www.github.com) tenemos que seguir los siguientes pasos
 
-El logo de GitHub es el siguiente
 
-![Logo GitHub](https://www.flaticon.es/icono-gratis/logotipo-de-github_25231)
 
 
 ```console
